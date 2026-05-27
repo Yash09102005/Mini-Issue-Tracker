@@ -1,0 +1,4 @@
+com\day5\dao\BugDAO.class
+com\day5\util\DBConnection.class
+com\day5\App.class
+com\day5\model\Bug.class
